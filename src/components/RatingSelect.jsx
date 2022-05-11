@@ -1,5 +1,5 @@
 import { useContext, useState, useEffect } from 'react'
-import PropTypes from 'prop-types'
+//import PropTypes from 'prop-types'
 import FeedbackContext from '../context/FeedbackContext'
 
 function RatingSelect({ handleSelected }) {
